@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run -itd --name war-dvir -p 80:80 nginx:latest
